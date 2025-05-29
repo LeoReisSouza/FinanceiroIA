@@ -1,0 +1,20 @@
+# Ambientes virtuais
+venv/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# IDEs e editores
+.vscode/
+*.swp
+
+# Flet cache
+*.db
+.flet/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
